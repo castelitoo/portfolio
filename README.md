@@ -45,27 +45,27 @@
 
 ***Performer and Cultural Dancer*** 
 
-Performed at three of UFC's annual flagship cultural event Barrio Fiesta
+Performed at three of UFC's annual flagship cultural event Barrio Fiesta.
 
 _30th Annual Barrio Fiesta_ (_Winter 2024_)
-* Emceed the 500+ attended event with another host
+* Emceed the 500+ attended event with another host.
 * Performed three dances including the traditional Filipino dances _Sayaw Sa Bangko_ and _Sakuting_, and a modern hip-hop dance.
-* Performed as a main character in the skit
+* Performed as a main character in the skit.
 
 _29th Annual Barrio Fiesta_ (_Winter 2023_)
-* Recruited volunteers from UFC and other on- and off-campus communities as the **Network and Outreach Chair**
-* Emceed the 400+ attended event with another host
+* Recruited volunteers from UFC and other on- and off-campus communities as the **Network and Outreach Chair**.
+* Emceed the 400+ attended event with another host.
 * Performed two dances including the traditional Filipino dances _Cariñosa_ a modern hip-hop dance.
-* Performed as a main character in the skit
+* Performed as a main character in the skit.
 
 _28th Annual Barrio Fiesta_ (_Spring 2022_)
-* Organized the gathering of financial and inventory donations from UFC alumni, families, and local businesses as the **Donations Chair**
-* Performed a modernized version of the traditional Filipino dance _Tinikling_
+* Organized the gathering of financial and inventory donations from UFC alumni, families, and local businesses as the **Donations Chair**.
+* Performed a modernized version of the traditional Filipino dance _Tinikling_.
 
 <!-- add marianas ?-->
 
 ## Skills and Hobbies
 
-#### Skills: Programming, C/C++, Java, C#, Python, Emceeing, Copywriting & Content Writing, Team Leadership
+**Skills**: Programming, C/C++, Java, C#, Python, Emceeing, Copywriting & Content Writing, Team Leadership
 
-#### Hobbies and Interests: Boxing, Filipino Culture and Issues, Mexican Culture and Issues
+**Hobbies and Interests**: Boxing, Filipino Culture and Issues, Mexican Culture and Issues
