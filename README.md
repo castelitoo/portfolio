@@ -23,6 +23,14 @@
 - Organized and managed Brotherhood Google Drive, Google Calendar, Google Contacts, and LinkedIn.
 - Led various committees with other members to produce large-scale events including a cultural show and our annual banquet.
 
+***New Member Educator*** (_May 2023 - March 2024_)
+- Responsible for designing and executing an 8-week educational program.
+- Educated 9 new members alongside a partner during Winter Quarter.
+- Led informational meetings twice a week across two campuses.
+- Instructed and instilled Filipino history, morals, and values.
+- Planned logistics of weekly workshops and events.
+- Maintained 100% retention rate throughout the process.
+
 ***Philanthropy Co-Chair*** (_August 2022 – May 2023_)
 - Raised awareness of our philanthropy (cardiovascular disease and strokes) through events and social media.
 - Collaborated with the UW Filipinx Association for Health Careers (FAHC) to host an educational workshop. 
@@ -55,7 +63,7 @@ _30th Annual Barrio Fiesta_ (_Winter 2024_)
 _29th Annual Barrio Fiesta_ (_Winter 2023_)
 * Recruited volunteers from UFC and other on- and off-campus communities as the **Network and Outreach Chair**.
 * Emceed the 400+ attended event with another host.
-* Performed two dances including the traditional Filipino dances _Cariñosa_ a modern hip-hop dance.
+* Performed two dances including the traditional Filipino dance _Cariñosa_ and a modern hip-hop dance.
 * Performed as a main character in the skit.
 
 _28th Annual Barrio Fiesta_ (_Spring 2022_)
