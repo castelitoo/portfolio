@@ -11,6 +11,7 @@
 ### Coding with Kids 
 ***Operations Coordinator*** (_June 2024 – Present_)
 
+### Panthera
 ***Software Engineer Intern*** (_September 2022 – June 2023_)
 - Worked in a team of four as an intern software engineer for year-long Capstone project.
 - Developed image processing library to optimize data for machine learning models.
