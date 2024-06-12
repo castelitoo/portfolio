@@ -8,7 +8,9 @@
     - Enrolled as high school student through the Running Start Program
 
 ## Work Experience
-### Panthera
+### Coding with Kids 
+***Operations Coordinator*** (_June 2024 – Present_)
+
 ***Software Engineer Intern*** (_September 2022 – June 2023_)
 - Worked in a team of four as an intern software engineer for year-long Capstone project.
 - Developed image processing library to optimize data for machine learning models.
@@ -17,7 +19,12 @@
 ## Leadership Experience
 ### The Brotherhood of Chi Theta Psi
 
-***Secretary and Executive Board*** (_May 2023 – Present_)
+***Alumni Chair*** (_June 2024 – Present_)
+- Acted as the point of contact between Alumni and the Active Brothers alongside another co-chair.
+- Coordinated and Facilitated quarterly mixers and events with Alumni Brothers.
+- Consistently kept 50+ Alumni Brothers informed and up-to-date on the Active House's doings.
+
+***Secretary and Executive Board*** (_May 2023 – May 2024_)
 - Wrote & distributed minutes for weekly board meetings.
 - Maintained roster of 80+ active and alumni members.
 - Organized and managed Brotherhood Google Drive, Google Calendar, Google Contacts, and LinkedIn.
@@ -31,16 +38,20 @@
 - Planned logistics of weekly workshops and events.
 - Maintained 100% retention rate throughout the process.
 
-***Philanthropy Co-Chair*** (_August 2022 – May 2023_)
+***Philanthropy Chair*** (_August 2022 – May 2023_)
 - Raised awareness of our philanthropy (cardiovascular disease and strokes) through events and social media.
 - Collaborated with the UW Filipinx Association for Health Careers (FAHC) to host an educational workshop. 
 - Organized blood drive w/ Bloodworks NW in support of cardiovascular disease awareness.
 - Promoted and Educated students about Filipino culture.
 - Collaborated with SU United Filipino Club (UFC) to host a cultural-based social event.
 
+### Northwest Filipino American Student Alliance (NWFASA)
+
+***Advisory Board Member*** (_May 2024 – Present_)
+
 ### Seattle University's United Filipino Club (UFC)
 
-***Affiliate Relations Officer*** (_May 2023 – Present_)
+***Affiliate Relations Officer*** (_May 2023 – May 2024_)
 - Acted as the point of contact between UFC and both the Northwest Fil-Am Student Alliance (NWFASA) and Kabataan Alliance (KA).
 - Attended NWFASA and KA meetings monthly and relayed information to UFC.
 - Collaborated with UW Filipino American Student Association (FASA sa UW) and the Filipino American National Historical Society (FANHS National) to organize a cultural showcase and panel.
