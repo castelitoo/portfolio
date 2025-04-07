@@ -10,6 +10,13 @@
 ## Work Experience
 ### Coding with Kids 
 ***Operations Coordinator*** (_June 2024 – Present_)
+- Ensured the smooth execution of daily operations for 2200+ students worldwide, including class readiness, pre-class preparations, and ongoing support.
+- Established and organized after-school coding classes at 200+ schools across 10 regions. 
+- Designed and maintained strategic scheduling systems for 200+ instructors, aligning assignments with performance metrics, availability, and expertise.
+- Oversaw pre-class tasks, including account setups, training assignments, schedule confirmations, and communication with schools.
+- Proactively solved operational challenges, using strong executive functioning skills to navigate ambiguity and meet tight deadlines.
+- Provide excellent customer service via Freshdesk to ensure timely responses to multiple partners, instructors, and customers daily.
+- Navigated complex challenges and ambiguities, utilizing executive functioning skills to deliver effective solutions under tight deadlines.
 
 ### Panthera
 ***Software Engineer Intern*** (_September 2022 – June 2023_)
